@@ -17,7 +17,7 @@ Below is a snapshot of a list of employees who are eligible to paticipate in a m
 ![snapshot-mentorship_eligibility.PNG](https://github.com/jlynw/Pewlett-Hackard-Analysis/blob/main/Images/snapshot-mentorship_eligibility.PNG)
 
 - There are 1,549 employees who are eligible for the mentorship program.
-- The roles eligible are assistant engineer, engineer, senior engineer, senior staff, staff, and technique leader. The majority that are eligible hold senior staff and engineer titles.
+- The employees eligible hold assistant engineer, engineer, senior engineer, senior staff, staff, and technique leader titles. The majority that are eligible are senior staff and engineers.
 
 ## Summary
 - A total of 90,398 roles will need to be filled as the "silver tsumani" begins to make an impact. About 64% of employees retiring hold senior level engineer and staff roles. 
